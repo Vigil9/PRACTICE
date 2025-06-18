@@ -1,0 +1,62 @@
+[
+  {
+    "Genre": "SciFi",
+    "Rating": 6.5,
+    "Watched": true
+  },
+  {
+    "Genre": "Comedy",
+    "Rating": 9.3,
+    "Watched": true
+  },
+  {
+    "Genre": "Action",
+    "Rating": 8.6,
+    "Watched": false
+  },
+  {
+    "Genre": "Action",
+    "Rating": 7.4,
+    "Watched": true
+  },
+  {
+    "Genre": "Action",
+    "Rating": 9.1,
+    "Watched": false
+  },
+  {
+    "Genre": "Drama",
+    "Rating": 7.3,
+    "Watched": true
+  },
+  {
+    "Genre": "Action",
+    "Rating": 9.5,
+    "Watched": true
+  },
+  {
+    "Genre": "Action",
+    "Rating": 8.7,
+    "Watched": false
+  },
+  {
+    "Genre": "Comedy",
+    "Rating": 9.1,
+    "Watched": true
+  },
+  {
+    "Genre": "Drama",
+    "Rating": 7.6,
+    "Watched": false
+  },
+  {
+    "Genre": "Action",
+    "Rating": 6.9,
+    "Watched": true
+  },
+  {
+    "Genre": "Action",
+    "Rating": 9.4,
+    "Watched": false
+  }
+]

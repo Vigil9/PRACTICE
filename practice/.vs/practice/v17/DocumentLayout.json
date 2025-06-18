@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7338F5-9F5F-4505-9347-C84E8F584D40}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\admin\\source\\repos\\practice\\classlibrary\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7338F5-9F5F-4505-9347-C84E8F584D40}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F6E5E2-0DD0-4FA2-B20F-7F65EAB78BA5}|practice\\practice.csproj|c:\\users\\admin\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F6E5E2-0DD0-4FA2-B20F-7F65EAB78BA5}|practice\\practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7338F5-9F5F-4505-9347-C84E8F584D40}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\admin\\source\\repos\\practice\\classlibrary\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7338F5-9F5F-4505-9347-C84E8F584D40}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\practice\\ClassLibrary\\Movie.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\practice\\ClassLibrary\\Movie.cs",
+              "RelativeToolTip": "ClassLibrary\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:51:13.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\practice\\ClassLibrary\\MovieList.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\MovieList.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\practice\\ClassLibrary\\MovieList.cs",
+              "RelativeToolTip": "ClassLibrary\\MovieList.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:51:12.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\practice\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "practice\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\practice\\practice\\Program.cs",
+              "RelativeToolTip": "practice\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAHkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:40:03.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
